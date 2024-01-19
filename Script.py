@@ -499,7 +499,7 @@ Would you like to become a Prime Member? Follow these steps:-
 
 Any doubts or how to become a prime member? contact me @RishabhAdmin </code></b>"""
     
-    ERN_TXT= """<b>──────「<a href=https://t.me/MidNightBots> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+    ERN_TXT = """<b>──────「<a href=https://t.me/MidNightBots> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
