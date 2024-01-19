@@ -20,9 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.0.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Certainly! Here's the description with the text in a stylized font:
-
-"🤖 Wᴇʟᴄᴏᴍᴇ ᴛᴏ @MidNightBots! 🔐 Fᴏʀ ᴇxᴄʟᴜsɪᴠᴇ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ, DM ᴏᴜʀ ᴀᴅᴍɪɴ. Uɴᴄᴏᴠᴇʀ ᴛʜᴇ sᴇᴄʀᴇᴛs ᴀɴᴅ ᴘᴏssɪʙɪʟɪᴛɪᴇs ʙᴇʜɪɴᴅ ᴛʜᴇ sᴄᴇɴᴇs! 💻✨ #PʀɪᴠᴀᴛᴇBᴏᴛ #Tᴇʟᴇɢʀᴀᴍ"- <a href='@OffPiracy'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+<b>🤖 Wᴇʟᴄᴏᴍᴇ ᴛᴏ @MidNightBots! 🔐 Fᴏʀ ᴇxᴄʟᴜsɪᴠᴇ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ, DM ᴏᴜʀ ᴀᴅᴍɪɴ. Uɴᴄᴏᴠᴇʀ ᴛʜᴇ sᴇᴄʀᴇᴛs ᴀɴᴅ ᴘᴏssɪʙɪʟɪᴛɪᴇs ʙᴇʜɪɴᴅ ᴛʜᴇ sᴄᴇɴᴇs! 💻✨ #PʀɪᴠᴀᴛᴇBᴏᴛ #Tᴇʟᴇɢʀᴀᴍ"- <a href='@OffPiracy'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -140,11 +138,15 @@ Nᴀᴍᴇ - {}"""
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
 
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
-"Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot."ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
+Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
+
+ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
 
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
+
+Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -157,7 +159,11 @@ Nᴀᴍᴇ - {}"""
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
-ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
+    
+ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...
+
+Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot
+"""
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
 
@@ -166,7 +172,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/main_channel_bot_update> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/MidNightBots> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -174,13 +180,13 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://omegalinks.in/ref/sahasudip>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://paisakamalo.in/ref/Midnight>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/main_channel_bot_update> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/MidNightBots> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
-Any Doubts or Not Connecting? Contact Me </b>
+Any Doubts or Not Connecting? <a href=https://t.me/NotPiracy> Contact Me </a> </b>
 """
 
     REQINFO = """
@@ -223,7 +229,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
 ╔══════════════════╗         
-    <a href="https://t.me/main_channel_bot_update">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
+    <a href="https://t.me/MidNightXMovies">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
 ╚══════════════════╝</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -448,19 +454,24 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ❂ ʀᴀᴍ ●●●●●●●◌◌◌
 ✇ ᴄᴘᴜ ●●●●●●●◌◌◌
 ✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰
-
-ᴠ2.8.1 [sᴛᴀʙʟᴇ] """
+ """
 
     LOGO = """
- ____  ___    ____   __  ____  ____ 
-(_  _)/ __)  (  _ \ /  \(_  _)(__  )
-  )( ( (_ \   ) _ ((  O ) )(   / _/ 
- (__) \___/  (____/ \__/ (__) (____)"""
+ 
+ ___      ___   __     ________   _____  ___    __     _______    __    __  ___________      _______     ______  ___________  ________  
+|"  \    /"  | |" \   |"      "\ (\"   \|"  \  |" \   /" _   "|  /" |  | "\("     _   ")    |   _  "\   /    " \("     _   ")/"       ) 
+ \   \  //   | ||  |  (.  ___  :)|.\\   \    | ||  | (: ( \___) (:  (__)  :))__/  \\__/     (. |_)  :) // ____  \)__/  \\__/(:   \___/  
+ /\\  \/.    | |:  |  |: \   ) |||: \.   \\  | |:  |  \/ \       \/      \/    \\_ /        |:     \/ /  /    ) :)  \\_ /    \___  \    
+|: \.        | |.  |  (| (___\ |||.  \    \. | |.  |  //  \ ___  //  __  \\    |.  |        (|  _  \\(: (____/ //   |.  |     __/  \\   
+|.  \    /:  | /\  |\ |:       :)|    \    \ | /\  |\(:   _(  _|(:  (  )  :)   \:  |        |: |_)  :)\        /    \:  |    /" \   :)  
+|___|\__/|___|(__\_|_)(________/  \___|\____\)(__\_|_)\_______)  \__|  |__/     \__|        (_______/  \"_____/      \__|   (_______/   
+                                                                                                                                        
+
 
 # dont remove my logo 
     PAID_TXT = """<b>Join a Prime group to get free movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity
-<a href='@SUDIPSAHA06'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
+<a href='@RishabhAdmin'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
 
 Prime Membership Progress
 
@@ -472,7 +483,9 @@ Prime Membership Progress
 
 12 Months - 300 Rs [1 Month Free Trial]
 
-♛ Contact »»————> @SUDIPSAHA06
+<b>UPI ID : KING5744@YBL</b>
+
+♛ Contact »»————> @RishabhAdmin
 
 Would you like to become a Prime Member? Follow these steps:-
 
@@ -480,7 +493,7 @@ Would you like to become a Prime Member? Follow these steps:-
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-Any doubts or how to become a prime member? contact me @SUDIPSAHA06 </code></b>"""
+Any doubts or how to become a prime member? contact me @RishabhAdmin </code></b>"""
 
 
 
