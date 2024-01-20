@@ -1355,7 +1355,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
          ], [ 
              InlineKeyboardButton('💠 ᴛᴇʟᴇɢʀᴀᴘʜ 💠', callback_data='tele'),
          ], [ 
-             InlineKeyboardButton('💸 Earn Money 💸', callback_data='ern'),
+             InlineKeyboardButton('💸 Earn Money 💸', callback_data='earn'),
          ], [ 
              InlineKeyboardButton('♻️ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ ♻️', callback_data='coct'), 
          ], [ 
@@ -1641,8 +1641,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-
-    elif query.data == "ern":
+    elif query.data == "earn":
         buttons = [[
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ ⇏', callback_data='help')
         ]]
