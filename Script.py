@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/OffPiracy'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MidnightSearchV1Bot>MidnightSearchV1Bot</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MidnightSearchV2Bot>MidnightSearchV1Bot</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MidNightBots'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.0.1 [sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
-<b>🤖 Wᴇʟᴄᴏᴍᴇ ᴛᴏ @MidNightBots! 🔐 Fᴏʀ ᴇxᴄʟᴜsɪᴠᴇ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ, DM ᴏᴜʀ ᴀᴅᴍɪɴ. Uɴᴄᴏᴠᴇʀ ᴛʜᴇ sᴇᴄʀᴇᴛs ᴀɴᴅ ᴘᴏssɪʙɪʟɪᴛɪᴇs ʙᴇʜɪɴᴅ ᴛʜᴇ sᴄᴇɴᴇs! 💻✨ #PʀɪᴠᴀᴛᴇBᴏᴛ #Tᴇʟᴇɢʀᴀᴍ"- <a href='@OffPiracy'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+<b>🤖 Wᴇʟᴄᴏᴍᴇ ᴛᴏ @MidNightBots! 🔐 Fᴏʀ ᴇxᴄʟᴜsɪᴠᴇ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ, DM ᴏᴜʀ ᴀᴅᴍɪɴ. Uɴᴄᴏᴠᴇʀ ᴛʜᴇ sᴇᴄʀᴇᴛs ᴀɴᴅ ᴘᴏssɪʙɪʟɪᴛɪᴇs ʙᴇʜɪɴᴅ ᴛʜᴇ sᴄᴇɴᴇs! 💻✨ #PʀɪᴠᴀᴛᴇBᴏᴛ #Tᴇʟᴇɢʀᴀᴍ"- <a href='t.me//OffPiracy'>📥 @OffPiracy📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -168,7 +168,9 @@ Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, 
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...
     
-    Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot
+    Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot
+
+    
     """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
@@ -233,7 +235,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
 ╔══════════════════╗         
-    <a href="https://t.me/MidNightXMovies">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
+    <a href="https://t.me/MidNightXMoviesV1">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
 ╚══════════════════╝</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -445,7 +447,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v3.0.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
     
     DELF_TXT = """
 ᴛʜɪꜱ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
@@ -489,7 +491,7 @@ Prime Membership Progress
 
 <b>UPI ID : KING5744@YBL</b>
 
-♛ Contact »»————> @RishabhAdmin
+♛ Contact »»————> @NotPiracy
 
 Would you like to become a Prime Member? Follow these steps:-
 
@@ -497,7 +499,7 @@ Would you like to become a Prime Member? Follow these steps:-
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-Any doubts or how to become a prime member? contact me @RishabhAdmin </code></b>"""
+Any doubts or how to become a prime member? contact me @NotPiracy </code></b>"""
     
     ERN_TXT = """<b>──────「<a href=https://t.me/MidNightBots> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
