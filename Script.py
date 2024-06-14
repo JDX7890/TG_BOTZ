@@ -486,7 +486,7 @@ Any Doubts or Not Connecting? <a href=https://t.me/NotPiracy> Contact Me </a> </
 # dont remove my logo 
     PAID_TXT = """<b>Join a Prime group to get free movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity
-<a href='https://t.me/RishabhAdmin'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
+<a href='https://t.me/offpiracy'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
 
 Prime Membership Progress
 
