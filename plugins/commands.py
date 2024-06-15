@@ -56,7 +56,7 @@ async def start(client, message):
                     InlineKeyboardButton('♛ 𝐉𝐎𝐈𝐍 𝐀𝐃 𝐅𝐑𝐄𝐄 𝐆𝐑𝐎𝐔𝐏 ♛', callback_data='paid')
                   ]]
                 ],[
-                    InlineKeyboardButton(🤖 ʀᴇᴀᴅ ʙᴇғᴏʀᴇ ᴜsᴇ  ᴛʜɪs ʙᴏᴛ 🤖, url="https://telegra.ph/Welcome-to-MidNight-Latest-V1-Bot-06-15")
+                    InlineKeyboardButton('🤖 ʀᴇᴀᴅ ʙᴇғᴏʀᴇ ᴜsᴇ  ᴛʜɪs ʙᴏᴛ 🤖', url="https://telegra.ph/Welcome-to-MidNight-Latest-V1-Bot-06-15")
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAJnLmTuFB3tbjsPSKlQYaKfUux_RBtzAAIEAAPBJDExieUdbguzyBAeBA") 
