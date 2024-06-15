@@ -142,7 +142,11 @@ Nᴀᴍᴇ - {}"""
 
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
     
-Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
+Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ,
+
+First Please Check Out to @MidNightSearchV3Bot 
+
+Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
 
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
 
@@ -150,7 +154,11 @@ Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, 
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot
+Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ,
+
+First Please Check Out to @MidNightSearchV3Bot 
+
+Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -166,12 +174,20 @@ Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, 
     
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...
 
-Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ, DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot
+Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ,
+
+First Please Check Out to @MidNightSearchV3Bot 
+
+Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
 """
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...
     
-    Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot
+   Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ,
+
+   First Please Check Out to @MidNightSearchV3Bot 
+
+  Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
 
     
     """
