@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Latest Mᴏᴠɪᴇs. Please send me the names of movies or series you're interested in 😍
 
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/OffPiracy'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
 
@@ -10,14 +10,14 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/OffPiracy'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MidnightSearchV3Bot>MidnightSearchV3Bot</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MidNightLatestV1Bot>MidNightLatestV1Bot</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MidNightBots'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>  
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>KOYEB</a> 
  ‣ ᴏᴡɴᴇʀ : <a href='https://t.me/OffPiracy'>ᴏꜰꜰᴘɪʀᴀᴄʏ</a> 
- ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.0.1 [sᴛᴀʙʟᴇ]</b>"""
+ ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ1.0.0 [sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
 <b>🤖 Wᴇʟᴄᴏᴍᴇ ᴛᴏ @MidNightBots! 🔐 Fᴏʀ ᴇxᴄʟᴜsɪᴠᴇ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ, DM ᴏᴜʀ ᴀᴅᴍɪɴ. Uɴᴄᴏᴠᴇʀ ᴛʜᴇ sᴇᴄʀᴇᴛs ᴀɴᴅ ᴘᴏssɪʙɪʟɪᴛɪᴇs ʙᴇʜɪɴᴅ ᴛʜᴇ sᴄᴇɴᴇs! 💻✨ #PʀɪᴠᴀᴛᴇBᴏᴛ #Tᴇʟᴇɢʀᴀᴍ"- <a href='t.me//OffPiracy'>📥 @OffPiracy📥</a></b>
