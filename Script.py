@@ -1,6 +1,8 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Latest Mᴏᴠɪᴇs. Tʜɪs Bᴏᴛ ɪs Oɴʟʏ Fᴏʀ Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Oᴜᴛ Oᴜʀ V3 Bᴏᴛ ғᴏʀ ᴀʟʟ  Mᴏᴠɪᴇs / Sᴇʀɪᴇs 
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Latest Mᴏᴠɪᴇs. Tʜɪs Bᴏᴛ ɪs Oɴʟʏ Fᴏʀ Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs / Sᴇʀɪᴇs.
+
+Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Oᴜᴛ Oᴜʀ V3 Bᴏᴛ ғᴏʀ ᴀʟʟ  Mᴏᴠɪᴇs / Sᴇʀɪᴇs 
 
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/OffPiracy'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
     
