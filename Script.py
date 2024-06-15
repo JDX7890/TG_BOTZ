@@ -156,9 +156,11 @@ Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇ
 
 Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ,
 
-First Please Check Out to @MidNightSearchV3Bot 
+Fɪʀsᴛ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Oᴜᴛ ᴛᴏ @MidNightSearchV3Bot 
 
-Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
+Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot 
+
+Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -176,18 +178,22 @@ Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇ
 
 Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ,
 
-First Please Check Out to @MidNightSearchV3Bot 
+Fɪʀsᴛ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Oᴜᴛ ᴛᴏ @MidNightSearchV3Bot 
 
-Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
+Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot 
+
+Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
 """
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...
     
    Iғ Sᴘᴇʟʟɪɴɢ ɪs ᴄᴏʀʀᴇᴄᴛ ᴀɴᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ,
 
-   First Please Check Out to @MidNightSearchV3Bot 
+Fɪʀsᴛ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Oᴜᴛ ᴛᴏ @MidNightSearchV3Bot 
 
-  Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
+Iғ Nᴏᴛ Fᴏᴜɴᴅ ᴏɴ @MidNightSearchV3Bot 
+
+Tʜᴇɴ DM ʏᴏᴜʀ ʀᴇϙᴜᴇsᴛ ᴏɴ @MidnightMoviesRequestBot.
 
     
     """
