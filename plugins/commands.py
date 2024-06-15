@@ -48,7 +48,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('✨ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ✨', url="https://t.me/MidNightXMoviesV1")
                 ],[
-                    InlineKeyboardButton('🚀 MɪᴅNɪɢʜᴛ ᴠ3 sᴇᴀʀᴄʜ ʙᴏᴛ 🚀', url="https://t.me/MidNightXMoviesV1")
+                    InlineKeyboardButton('🚀 MɪᴅNɪɢʜᴛ ᴠ3 sᴇᴀʀᴄʜ ʙᴏᴛ 🚀', url="https://t.me/MidNightSearchV3Bot")
                 ],[
                     InlineKeyboardButton('🤖 ʀᴇᴀᴅ ʙᴇғᴏʀᴇ ᴜsᴇ  ᴛʜɪs ʙᴏᴛ 🤖', url="https://telegra.ph/Welcome-to-MidNight-Latest-V1-Bot-06-15")
                 ]]
@@ -97,7 +97,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('✨ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ✨', url="https://t.me/MidNightXMoviesV1")
                 ],[
-                    InlineKeyboardButton('🚀 MɪᴅNɪɢʜᴛ ᴠ3 sᴇᴀʀᴄʜ ʙᴏᴛ 🚀', url="https://t.me/MidNightXMoviesV1")
+                    InlineKeyboardButton('🚀 MɪᴅNɪɢʜᴛ ᴠ3 sᴇᴀʀᴄʜ ʙᴏᴛ 🚀', url="https://t.me/MidNightSearchV3Bot")
                 ],[
                     InlineKeyboardButton('🤖 ʀᴇᴀᴅ ʙᴇғᴏʀᴇ ᴜsᴇ  ᴛʜɪs ʙᴏᴛ 🤖', url="https://telegra.ph/Welcome-to-MidNight-Latest-V1-Bot-06-15")
                 ]]
