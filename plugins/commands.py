@@ -54,7 +54,6 @@ async def start(client, message):
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('♛ 𝐉𝐎𝐈𝐍 𝐀𝐃 𝐅𝐑𝐄𝐄 𝐆𝐑𝐎𝐔𝐏 ♛', callback_data='paid')
-                  ]]
                 ],[
                     InlineKeyboardButton('🤖 ʀᴇᴀᴅ ʙᴇғᴏʀᴇ ᴜsᴇ  ᴛʜɪs ʙᴏᴛ 🤖', url="https://telegra.ph/Welcome-to-MidNight-Latest-V1-Bot-06-15")
                 ]]
@@ -108,7 +107,6 @@ async def start(client, message):
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('♛ 𝐉𝐎𝐈𝐍 𝐀𝐃 𝐅𝐑𝐄𝐄 𝐆𝐑𝐎𝐔𝐏 ♛', callback_data='paid')
-                  ]]
                 ],[
                     InlineKeyboardButton('🤖 ʀᴇᴀᴅ ʙᴇғᴏʀᴇ ᴜsᴇ  ᴛʜɪs ʙᴏᴛ 🤖', url="https://telegra.ph/Welcome-to-MidNight-Latest-V1-Bot-06-15")
                   ]]
