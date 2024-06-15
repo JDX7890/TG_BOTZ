@@ -133,7 +133,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Ninjaskacode/TG_BOTZ)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/JDX7890/TG_BOTZ)
 </details>
 
 <details><summary>Deploy To Render</summary>
